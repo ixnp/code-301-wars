@@ -1,5 +1,4 @@
-var replaceDots = function(str) {
-  return str.split('.').join('-');
-};
-Add Comment
-
+function fixTheMeerkat(arr) {
+ 
+  return arr.reverse(); 
+}
