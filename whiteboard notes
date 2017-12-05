@@ -1,0 +1,11 @@
+
+
+Split the string into two arrays > grab the item in the first index of those arrays >  create a new array. 
+
+Things to look at:
+.split
+.map
+.filter
+.join
+
+Test failed need to change to upper case. 
